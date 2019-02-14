@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 14 21:17:20 2019
-
-@author: User
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Feb 14 18:23:10 2019
 
 @author: arghac14
